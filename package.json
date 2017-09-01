@@ -14,6 +14,6 @@
     "node-static": "^0.7.9",
     "ws": "^3.1.0",
     "wscat": "^2.0.1",
-	"bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7"
   }
 }
