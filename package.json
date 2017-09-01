@@ -1,0 +1,19 @@
+{
+  "name": "webRTC_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "static": "static"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "^0.7.9",
+    "ws": "^3.1.0",
+    "wscat": "^2.0.1",
+	"bootstrap": "^3.3.7"
+  }
+}
